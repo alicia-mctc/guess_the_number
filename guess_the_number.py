@@ -1,5 +1,6 @@
 import random
 
+# The variables below have been assigned String values that reflect the appropriate guess response
 correct = 'you guessed correctly!'
 too_low = 'too low'
 too_high = 'too high'
